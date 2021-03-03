@@ -1,0 +1,8 @@
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\bin\Debug\PieChartLibrary.dll
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\bin\Debug\PieChartLibrary.pdb
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\obj\Debug\PieChartLibrary.csprojAssemblyReference.cache
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\obj\Debug\PieChartLibrary.PieChart.resources
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\obj\Debug\PieChartLibrary.csproj.GenerateResource.cache
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\obj\Debug\PieChartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\obj\Debug\PieChartLibrary.dll
+C:\Users\Adelina\Desktop\1029_1057\An2\sem 2\#Projects\WindowsForms_Agenda_de_Activitati\WindowsForms_Agenda_de_Activitati\PieChartLibrary\obj\Debug\PieChartLibrary.pdb

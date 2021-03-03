@@ -1,0 +1,2 @@
+FINANȚE	PREZENTARE	Prezentare proiect	5/29/2020 1:19:07 AM	6/29/2020 1:19:07 AM	Firma	LOW	40	Client X, Deadline: 30.dec.2020
+MARKETING	REALIZARE_PROIECT	Proiect buget	5/29/2020 1:19:39 AM	6/29/2020 1:19:39 AM	Birou	MEDIUM	20	Client X, Deadline: 30.dec.2020

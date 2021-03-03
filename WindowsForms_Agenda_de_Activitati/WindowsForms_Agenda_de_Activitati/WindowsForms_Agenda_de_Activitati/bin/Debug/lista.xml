@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfProiecte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Proiecte>
+    <Denumire>MARKETING</Denumire>
+    <Detalii>Client X, Deadline: 30.dec.2020</Detalii>
+    <Prioritate>MEDIUM</Prioritate>
+    <tip>PREZENTARE</tip>
+    <dataIncepere>2020-05-27T16:26:32.6394124+03:00</dataIncepere>
+    <dataIncheiere>2020-05-28T16:26:32</dataIncheiere>
+    <Id>0</Id>
+  </Proiecte>
+  <Proiecte>
+    <Denumire>DEZVOLTARE</Denumire>
+    <Detalii>Client X, Deadline: 30.dec.2020</Detalii>
+    <Prioritate>HIGH</Prioritate>
+    <tip>REALIZARE_PROIECT</tip>
+    <dataIncepere>2020-05-27T16:28:21.3324435+03:00</dataIncepere>
+    <dataIncheiere>2020-06-27T16:28:21</dataIncheiere>
+    <Id>0</Id>
+  </Proiecte>
+  <Proiecte>
+    <Denumire>CONTABILITATE</Denumire>
+    <Detalii>Client X, Deadline: 30.dec.2020</Detalii>
+    <Prioritate>MEDIUM</Prioritate>
+    <tip>ȘEDINȚĂ</tip>
+    <dataIncepere>2020-05-27T16:28:50.0392287+03:00</dataIncepere>
+    <dataIncheiere>2020-05-28T16:28:50</dataIncheiere>
+    <Id>0</Id>
+  </Proiecte>
+</ArrayOfProiecte>
